@@ -13,7 +13,7 @@ Ce dépot contient des scripts pour faciliter de production et l'affichage de ca
 - Sécurité : dédiez un navigateur secondaire uniquement pour ça
   - exemple : Twitch+dons sur Chrome ; ZEvent/Place sur Firefox
 - Pré-requis avant de cliquer ci-après: installer l'extension TamperMonkey
-- https://raw.githubusercontent.com/ludolpif/overlay-zevent-place/main/browser-script/zevent-place-overlay.user.js
+- https://raw.githubusercontent.com/ludolpif/zevent-place-overlay/main/browser-script/zevent-place-overlay.user.js
 - Si ça affiche du code sans aucun bouton "Installer", vérifier l'installation de l'extension TamperMonkey
 - Diaporama détaillé (à télécharger) : https://github.com/ludolpif/overlay-zevent-place/raw/main/documentation/use-overlays.pdf
 
